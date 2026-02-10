@@ -6,7 +6,7 @@ const Result = ({ score }) => {
       <div>Result</div>
       <h2>Your score is {score}</h2>
 
-      {score > 1 && (
+      {score >=0 && (
         <div style={{
           marginTop: "20px",
           padding: "15px",
