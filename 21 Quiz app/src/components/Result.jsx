@@ -6,7 +6,7 @@ const Result = ({ score }) => {
       <div>Result</div>
       <h2>Your score is {score}</h2>
 
-      {score >=0 && (
+      {score >=1 && (
         <div style={{
           marginTop: "20px",
           padding: "15px",
@@ -17,7 +17,6 @@ const Result = ({ score }) => {
         }}>
           🎉🎉 Mubarak ho! 🎉🎉 <br />
           Aap jeet chuke ho <b>₹5,00,000</b> 💰 <br />
-          Bas ab phone uthao aur mummy ko batao 😆
         </div>
       )}
     </>
