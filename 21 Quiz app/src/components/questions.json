@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Chandan ki girlfriend sabse zyada kis baat pe gussa hoti hai?",
+    "options": [
+      "Late reply",
+      "Seen karke reply na dena",
+      "Dusri ladki ka naam lena",
+      "Upar sab"
+    ],
+    "answer": "Upar sab"
+  },
+  {
+    "question": "Agar Chandan bole 'bas 5 minute', to girlfriend ka matlab kya hota hai?",
+    "options": [
+      "Sach me 5 minute",
+      "30 minute",
+      "1 ghanta",
+      "Aaj nahi milna"
+    ],
+    "answer": "1 ghanta"
+  },
+  {
+    "question": "Girlfriend ka favourite dialogue kya hota hai?",
+    "options": [
+      "Kuch nahi",
+      "Jo tumhe sahi lage",
+      "Tum khud samjho",
+      "Sab"
+    ],
+    "answer": "Sab"
+  },
+  {
+    "question": "Chandan ki girlfriend phone kis time pe karti hai?",
+    "options": [
+      "Free hone par",
+      "Kaam ke beech",
+      "Game ke time",
+      "Sone ke time"
+    ],
+    "answer": "Game ke time"
+  },
+  {
+    "question": "Girlfriend ke 'OK' ka asli matlab kya hota hai?",
+    "options": [
+      "Sab theek hai",
+      "Thoda gussa",
+      "Bahut gussa",
+      "Tum phas chuke ho"
+    ],
+    "answer": "Tum phas chuke ho"
+  }
+]
