@@ -1,52 +1,72 @@
 [
   {
-    "question": "Mansa jab bole \"aaj free hoon\", uska double meaning kya hota hai?",
+    "question": "HTML me <div> aur <span> me kya difference hai?",
     "options": [
-      "Sach me free hai",
-      "Time manage kar rahi hai",
-      "Dono ko adjust kar rahi hai",
-      "Busy hone wali hai"
+      "Dono same hote hain",
+      "<div> block level hota hai, <span> inline hota hai",
+      "<div> inline hota hai, <span> block hota hai",
+      "Koi difference nahi"
     ],
-    "answer": "Dono ko adjust kar rahi hai"
+    "answer": "<div> block level hota hai, <span> inline hota hai"
   },
   {
-    "question": "Chandan aur Sachin dono ko Mansa ka \"special time\" kab milta hai?",
+    "question": "Semantic HTML ka main purpose kya hai?",
     "options": [
-      "Morning",
-      "Evening",
-      "Raat",
-      "Jab dusra busy ho"
+      "Design improve karna",
+      "Website fast banana",
+      "SEO aur readability improve karna",
+      "Color change karna"
     ],
-    "answer": "Jab dusra busy ho"
+    "answer": "SEO aur readability improve karna"
   },
   {
-    "question": "Mansa ka favourite line \"tum alag ho\" ka asli matlab kya hota hai?",
+    "question": "CSS Box Model me kaun kaun se parts hote hain?",
     "options": [
-      "Sach me special ho",
-      "Dil se bola",
-      "Same dialogue, different person",
-      "Mood pe depend karta hai"
+      "Margin, Border, Padding, Content",
+      "Height, Width",
+      "Font, Color",
+      "Display, Position"
     ],
-    "answer": "Same dialogue, different person"
+    "answer": "Margin, Border, Padding, Content"
   },
   {
-    "question": "Jab Mansa bole \"sirf tum hi ho\", double meaning kya hai?",
+    "question": "Flexbox ka use kis liye hota hai?",
     "options": [
-      "True love",
-      "Temporary feeling",
-      "Us moment ke liye",
-      "Confusion"
+      "Animation ke liye",
+      "Database connect karne ke liye",
+      "Layout aur alignment ke liye",
+      "Image edit karne ke liye"
     ],
-    "answer": "Us moment ke liye"
+    "answer": "Layout aur alignment ke liye"
   },
   {
-    "question": "Is triangle me sabse zyada use hone wala word kaunsa hai?",
+    "question": "JavaScript me 'let' aur 'var' me kya difference hai?",
     "options": [
-      "Trust",
-      "Commitment",
-      "Busy",
-      "Sorry"
+      "Koi difference nahi",
+      "let block scope hota hai, var function scope hota hai",
+      "var modern hai",
+      "let purana hai"
     ],
-    "answer": "Busy"
+    "answer": "let block scope hota hai, var function scope hota hai"
+  },
+  {
+    "question": "DOM ka full form kya hai?",
+    "options": [
+      "Document Object Model",
+      "Data Object Method",
+      "Design Object Model",
+      "Document Order Method"
+    ],
+    "answer": "Document Object Model"
+  },
+  {
+    "question": "Event listener ka use kis liye hota hai?",
+    "options": [
+      "Style change karne ke liye",
+      "User interaction handle karne ke liye",
+      "Server connect karne ke liye",
+      "Database banane ke liye"
+    ],
+    "answer": "User interaction handle karne ke liye"
   }
 ]
